@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 .main{
-	widht:200px;
+	width:200px;
 	background-color: purple;
 	border-left-color: rgb(0,128,0);
 	border-left-width:5px;
@@ -10,7 +10,7 @@
 }
 
 .heading{
-	font-size:20 px;
+	font-size: 20px;
 	color:white;
 	text-decoration:underline;
 }
